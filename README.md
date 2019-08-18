@@ -7,7 +7,6 @@ The dataset is a logs data from a remote server generated past 1 month. This dat
 
 Columns: 
   - Timestamp of the log
-  - Unique User-id
   - User IP_address from which the request is made
   
 ## Approach
